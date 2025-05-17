@@ -27,4 +27,3 @@ When('I add the product to the cart', () => {
 When('I remove the product from the cart', () => {
   cy.removeButton();
 });
-
